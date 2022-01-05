@@ -1,4 +1,4 @@
-# Flutter_Mnemo
+# Flutter/Dart Mnemo
 
 
 My useful links:
